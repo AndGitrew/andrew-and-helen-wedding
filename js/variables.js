@@ -13,9 +13,9 @@ var	mobileMenuTitle = "Menu",					//The title of the mobile menu
 	//GOOGLE MAP VARIABLES
 	map_canvas_id = "map_canvas",				//The HTML "id" of the map canvas
 	map_color = "#ad9fb3",						//Google map color
-	map_initial_zoom = 15,						//The initial zoom when Google map loads
-	map_initial_latitude = 45.432603525511915,			//Google map initial Latitude. If "null", the latitude of the first marked will be used
-	map_initial_longitude = -75.74096852534183,		//Google map initial Longitude. If "null", the longitude of the first marked will be used
+	map_initial_zoom = 10,						//The initial zoom when Google map loads
+	map_initial_latitude = 45.4229847,			//Google map initial Latitude. If "null", the latitude of the first marked will be used
+	map_initial_longitude = -75.7589718,		//Google map initial Longitude. If "null", the longitude of the first marked will be used
 	use_default_map_style = false,				//If true, default map style will be used
 	
 	
